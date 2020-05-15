@@ -1,0 +1,1 @@
+Using the practices taught in Robert C. Martin's Clean Code, I've created the Game Of Life in Java. I followed the Test Driven Development principles to the best of ability, all of the test files in the /test directory.
